@@ -1,34 +1,8 @@
-# Advanced Data Visualization – Beeswarm Plot  
-## Employee Salary Distribution Analysis
 
-This repository contains a professional Beeswarm Plot created using RAWGraphs
-to visualize employee salary distribution across different departments and
-experience levels.
+# hq-rawgraphs-chart
 
-## Business Context
-This visualization supports strategic compensation analysis and pay equity
-assessment for executive-level decision-making and board presentations.
+This repository contains a RAWGraphs Sunburst Diagram representing organizational spending breakdown by department and expense type. 
 
-## Visualization Tool
-- RAWGraphs (https://rawgraphs.io/)
-- Chart Type: Beeswarm Plot
-- Export Format: PNG
-
-## Data Description
-- Categorical Dimensions:
-  - Department
-  - Experience Level
-- Continuous Measure:
-  - Salary
-
-## Key Use Case
-- Workforce planning
-- Pay equity analysis
-- Executive compensation benchmarking
-
-## Files in This Repository
-- `chart.png` → RAWGraphs-generated Beeswarm Plot
-- `README.md` → Project documentation
-
-## Contact (Verification Email)
-**23f2004056@ds.study.iitm.ac.in**
+- Email: 23f2004056@ds.study.iitm.ac.in
+- Data Source: Synthetic business expense data
+- Visualization: Sunburst Diagram exported from RAWGraphs as PNG
